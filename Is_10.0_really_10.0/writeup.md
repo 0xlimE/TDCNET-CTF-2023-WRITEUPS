@@ -160,7 +160,7 @@ Certainly not very reassuring, but now we have changed the password for the `adm
 
 ![Alt text](3.png)
 
-I decide to upload additional payloads using this general format instead of again setting up a revshell to explore the system, where we quickly find the flag in the unconventional `/home/node/flag.txt` location.
+I decided to upload additional payloads using this general format instead of again setting up a revshell to explore the system, where we quickly find the flag in the unconventional `/home/node/flag.txt` location.
 
 ```js
 const fs = require('fs');
